@@ -1,1 +1,5 @@
 # Chronic-Kidney-Disease-Prediction
+
+Project Description:
+
+This project addresses the critical issue of Chronic Kidney Disease (CKD) using machine learning models to predict outcomes and identify key risk factors. With a focus on prevalent risk factors such as diabetes, hypertension, and obesity, the models exhibit promising accuracy rates of up to 90%. The findings not only contribute to the knowledge base of healthcare practitioners but also offer insights for policymakers to design more effective interventions. The work involved data preprocessing, exploration, and correlation analysis to unravel significant relationships between variables. Notably, the Random Forest model outperformed others, and feature selection techniques were employed to enhance overall performance, particularly in the context of an imbalanced dataset. By leveraging machine learning, this collaborative effort contributes to informed patient decision-making, raises awareness about CKD, and sets the stage for future advancements in healthcare analytics. 
